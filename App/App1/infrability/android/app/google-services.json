@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896217259852",
+    "project_id": "talaninfrability",
+    "storage_bucket": "talaninfrability.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896217259852:android:cd1548fe2ad89ed81339e9",
+        "android_client_info": {
+          "package_name": "com.example.infrability"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896217259852-ek18mnbqsddl8o17k8uekoomocsddo3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkmb5vYYR9oHbfnmhbd_e49AaXA1o1AQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896217259852-ek18mnbqsddl8o17k8uekoomocsddo3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
